@@ -342,6 +342,12 @@ margin-bottom: 2rem;
   flex-wrap: wrap;
   align-items: center;
 }
+.tour-footer p{
+  line-height: 0;
+  margin-bottom: 0;
+  text-transform: capitalize;
+  color: #1a93a3;
+}
 /* =============
 Contact
 ============= */
