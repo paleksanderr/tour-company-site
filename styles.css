@@ -157,7 +157,7 @@ Navbar
   color: #1a93a3;
 }
 .nav-logo{
-  color: var(--crl-primary-3);
+  color: var(--clr-black);
 }
 .navbar{
   position: fixed;
