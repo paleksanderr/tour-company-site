@@ -156,9 +156,10 @@ Navbar
 .nav-logo span{
   color: #1a93a3;
 }
-.nav-logo{
-  color: var(--clr-black);
-}
+/* .nav-logo{
+  color: var(--crl-primary-1);
+} */
+
 .navbar{
   position: fixed;
   top: 0;
